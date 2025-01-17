@@ -71,7 +71,7 @@ The database comprises the following tables, each with specific attributes and r
 ## ERD (Entity-Relationship Diagram)
 The ERD visually represents the database structure, including entities, attributes, and relationships. The diagram showcases how the tables are interconnected, ensuring efficient data management and integrity.
 
-![ERD DIAGRAM]()
+![ERD DIAGRAM](https://github.com/DILIPdk1101/Amazon-E-commerce-Database-Analysis/blob/a043e3085817a962dc4336d377a8f7cc2d1fdd93/ERD%20DIAGRAM.png)
 
 ## Business Questions Answered
 Using this database, I answered several key business questions, such as:
